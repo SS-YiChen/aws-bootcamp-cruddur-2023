@@ -40,6 +40,10 @@ AWS CloudTrail helps us enable operational and risk auditing, governance, and co
 
 An IAM user is a resource in IAM that has associated credentials and permissions. An IAM user can represent a person or an application that uses its credentials to make AWS requests. 
 
+2.5 Shared Responsibility Model
+![AWS](../_docs/images/aws-cloud-security.jpg)
+
+
 ## 3. Architecture Diagram
 
 using Lucid.app
