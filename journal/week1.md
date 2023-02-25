@@ -35,7 +35,10 @@ cd ..
 
 ### Add Dockerfile
 
-Create a file here: `backend-flask/Dockerfile`
+Create a file here: `backend-flask/Dockerfile
+
+instal flask
+- pip3 install -r requirements.txt
 
 ```dockerfile
 FROM python:3.10-slim-buster
